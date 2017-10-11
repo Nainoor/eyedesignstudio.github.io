@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "AndroidBuild.data.unityweb",
+"asmCodeUrl": "AndroidBuild.asm.code.unityweb",
+"asmMemoryUrl": "AndroidBuild.asm.memory.unityweb",
+"asmFrameworkUrl": "AndroidBuild.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
